@@ -1,6 +1,6 @@
 ### Hi there 👋
  
-Experienced data engineer and analyst with 4 years' expertise across Telecommunication, IT, Manufacturing, and Insurance. Specializes in automating processes, managing large-scale data pipelines, and optimizing IT costs. Skilled in Data Engineering, Analysis, Modeling, Warehousing, and Visualization on cloud platforms and databases including Snowflake, Azure, AWS, SQL Server, Teradata, PostgreSQL, Oracle, and MySQL.
+Experienced data engineer and analyst with 4 years' expertise across Healthcare, Telecommunication, IT, Manufacturing, and Insurance. Specializes in automating processes, managing large-scale data pipelines, and optimizing IT costs. Skilled in Data Engineering, Analysis, Modeling, Warehousing, and Visualization on cloud platforms and databases including Snowflake, Azure, AWS, SQL Server, Teradata, PostgreSQL, Oracle, and MySQL.
 
 
 - 🌱 I’m currently learning ...Data 
