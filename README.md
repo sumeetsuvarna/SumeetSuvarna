@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there 👋
+ 
+Experienced data engineer and analyst with 4 years' expertise across Telecommunication, IT, Manufacturing, and Insurance. Specializes in automating processes, managing large-scale data pipelines, and optimizing IT costs. Skilled in Data Engineering, Analysis, Modeling, Warehousing, and Visualization on cloud platforms and databases including Snowflake, Azure, AWS, SQL Server, Teradata, PostgreSQL, Oracle, and MySQL.
 
-<!--
-**sumeetsuvarna/SumeetSuvarna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning ...Data 
+- 👯 I’m looking to collaborate on ...Data Analysis 
+- 📫 How to reach me: ...ON my below mentioned profile.
+- 😄 Pronouns: ...He/His
+- ⚡ Fun fact: ...More data not always mean more accuracy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### MY Social Profiles:
+* [Linkedln](https://www.linkedin.com/in/sumeet-suvarna/)
+* [Tableau Public](https://public.tableau.com/app/profile/sumeet.suvarna5030/vizzes)
+
+
+
+
+For any queries  feel free to mail me at **sumeetsuvarna10@gmail.com** , i will be highly obliged.
