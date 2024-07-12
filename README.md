@@ -16,4 +16,4 @@ Experienced data engineer and analyst with 4 years' expertise across Healthcare,
 
 
 
-For any queries  feel free to mail me at **sumeetsuvarna10@gmail.com** , i will be highly obliged.
+For any queries  feel free to mail me at **sumeetd.suvarna@gmail.com** , i will be highly obliged.
